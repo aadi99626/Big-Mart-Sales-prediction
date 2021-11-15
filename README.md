@@ -1,4 +1,4 @@
-# Super-Store-Sales-prediction
+# Black Friday Sales-prediction
 
 Rank - 2225 among 44000 participants
 
