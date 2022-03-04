@@ -1,4 +1,4 @@
-# Black Friday Sales-prediction
+# Big Mart Sales-prediction
 
 Rank - 2225 among 44000 participants
 
